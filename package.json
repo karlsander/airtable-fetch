@@ -2,7 +2,7 @@
   "name": "airtable-fetch",
   "version": "0.1.0",
   "description": "A module that helps fetch an entire Airtable base or parts of it.",
-  "homepage": "https://github.com/karlsander/airtable-fetch#readme"
+  "homepage": "https://github.com/karlsander/airtable-fetch#readme",
   "main": "index.js",
   "module": "main.js",
   "scripts": {
