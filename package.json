@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Fetch specified tables and views from an Airtable base",
   "main": "index.js",
+  "module": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +13,7 @@
   "author": "Karl Sander",
   "license": "ISC",
   "dependencies": {
-    "airtable": "^0.5.4"
+    "airtable": "^0.5.4",
+    "esm": "^3.0.34"
   }
 }
