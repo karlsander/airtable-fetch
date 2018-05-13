@@ -1,17 +1,23 @@
 {
   "name": "airtable-fetch",
   "version": "0.1.0",
-  "description": "Fetch specified tables and views from an Airtable base",
+  "description": "A module that helps fetch an entire Airtable base or parts of it.",
+  "homepage": "https://github.com/karlsander/airtable-fetch#readme"
   "main": "index.js",
   "module": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "airtable"
-  ],
+  "keywords": ["airtable"],
   "author": "Karl Sander",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karlsander/airtable-fetch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karlsander/airtable-fetch/issues"
+  },
   "dependencies": {
     "airtable": "^0.5.4",
     "esm": "^3.0.34"
