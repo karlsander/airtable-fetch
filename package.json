@@ -1,7 +1,7 @@
 {
   "name": "airtable-fetch",
   "version": "0.1.0",
-  "description": "Caches an Airtable base into memory and updates it periodically",
+  "description": "Fetch specified tables and views from an Airtable base",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

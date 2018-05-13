@@ -1,6 +1,6 @@
-const airtable = require('airtable');
+import airtable from 'airtable';
 
-module.exports = function AirtableFetch(baseID, baseSchema, apiKey) {
+export default function AirtableFetch(baseID, baseSchema, apiKey) {
   if (apiKey) {
     airtable.configure({ apiKey: apiKey });
   }
