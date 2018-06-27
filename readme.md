@@ -1,6 +1,7 @@
 # airtable-fetch
 
 [![npm link](https://img.shields.io/npm/v/airtable-fetch.svg)](https://www.npmjs.com/package/airtable-fetch)
+[![Build Status](https://travis-ci.org/karlsander/airtable-fetch.svg?branch=master)](https://travis-ci.org/karlsander/airtable-fetch)
 
 A module that helps fetch an entire Airtable base or parts of it. This can be useful for running a proxy to avoid the 5/req per second API Limit.
 
