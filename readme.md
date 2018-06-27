@@ -77,3 +77,11 @@ server.listen(3000);
 Fetching the entire base is my goal, but while the Airtable Schema API is not public, I can't. Once it becomes generally available I'd like fetch everything by default so the module can have the desired simplicity.
 
 This kind of naive approach for a proxy server doesn't really scale to huge bases, but neither does Airtable, really, so its fine (for me, for now).
+
+## Changelog
+
+### 0.1.1
+- update dependencies
+
+### 0.1.0
+- intial release
