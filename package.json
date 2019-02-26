@@ -1,6 +1,6 @@
 {
   "name": "airtable-fetch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A module that helps fetch an entire Airtable base or parts of it.",
   "homepage": "https://github.com/karlsander/airtable-fetch#readme",
   "main": "index.js",
@@ -8,7 +8,9 @@
   "scripts": {
     "test": "echo \"Error: no tests yet\" && exit 0"
   },
-  "keywords": ["airtable"],
+  "keywords": [
+    "airtable"
+  ],
   "author": "Karl Sander",
   "license": "ISC",
   "repository": {
@@ -19,7 +21,7 @@
     "url": "https://github.com/karlsander/airtable-fetch/issues"
   },
   "dependencies": {
-    "airtable": "^0.5.4",
-    "esm": "^3.0.34"
+    "airtable": "^0.5.9",
+    "esm": "^3.2.7"
   }
 }
