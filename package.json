@@ -21,7 +21,7 @@
     "url": "https://github.com/karlsander/airtable-fetch/issues"
   },
   "dependencies": {
-    "airtable": "^0.5.9",
+    "airtable": "^0.7.1",
     "esm": "^3.2.7"
   }
 }
