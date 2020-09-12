@@ -1,3 +1,5 @@
+__Warning__: This module is no longer maintained. There is an unresolved security warning in the `airtable` dependency version, so it is not advisible to use this. Instead I would suggest copy and pasting the code, if you need something like this.
+
 # airtable-fetch
 
 [![npm link](https://img.shields.io/npm/v/airtable-fetch.svg)](https://www.npmjs.com/package/airtable-fetch)
